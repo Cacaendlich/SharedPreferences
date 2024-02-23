@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Shared Preferences</string>
+    <string name="title_activity_my_shared_preference">MySharedPreferenceActivity</string>
+    <string name="nome">Nome</string>
+    <string name="tel">Telefone</string>
+    <string name="idade">idade</string>
+    <string name="gravar">GRAVAR</string>
+    <string name="apresentar">APRESENTAR</string>
+    <string name="informa_es">Informações</string>
+</resources>
