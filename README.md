@@ -19,6 +19,15 @@ SharedPreferences is a way to store key/value pairs persistently. In this projec
 * A text field to enter the user's age.
 * A button to save the entered data.
 
+## Screenshots
+
+<img width="261" alt="Captura de Tela 2024-02-23 às 16 11 44" src="https://github.com/Cacaendlich/SharedPreferences/assets/98967640/92351650-631f-43c1-9baa-6bb7466a998e">
+<img width="258" alt="Captura de Tela 2024-02-23 às 16 12 59" src="https://github.com/Cacaendlich/SharedPreferences/assets/98967640/06e52b9d-a209-4404-ad3b-e00809fcfed8">
+<img width="272" alt="Captura de Tela 2024-02-23 às 16 08 02" src="https://github.com/Cacaendlich/SharedPreferences/assets/98967640/4e559455-c8c1-48cc-9c94-6e40a3b78eb1">
+
+
+
+
 ## How to Use
 * Clone this repository to your local development environment.
 * Open the project in Android Studio.
